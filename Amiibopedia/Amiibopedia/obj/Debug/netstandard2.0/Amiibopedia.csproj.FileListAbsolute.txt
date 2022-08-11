@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\Amiibopedia.deps.json
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\Amiibopedia.dll
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\bin\Debug\netstandard2.0\Amiibopedia.pdb
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.dll
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\refint\Amiibopedia.dll
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\Amiibopedia.pdb
+C:\Users\Usuario\source\repos\Amiibopedia\Amiibopedia\Amiibopedia\obj\Debug\netstandard2.0\ref\Amiibopedia.dll
